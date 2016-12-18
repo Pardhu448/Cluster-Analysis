@@ -1,0 +1,5 @@
+Each Desk may have different risk fators comtributing to its risk. 
+It is useful to cluster desks based on riskiness due to a single risk factor and 
+also to cluster different risk factors for a particular desk. 
+First approach helps us understand how desks are interacting with each other when risk factor considered is chaning and 
+second approach helps understand how different risk factors are interacting with each other for a particular desk. 
